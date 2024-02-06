@@ -2,7 +2,7 @@
 
 ## KubeVirt 架构
 
-![architecture](images\architecture.png)
+![architecture](images/architecture.png)
 
 ## 安装 minikube
 
