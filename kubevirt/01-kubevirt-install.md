@@ -1,5 +1,9 @@
 # Kubevirt On Minikube 笔记
 
+## KubeVirt 架构
+
+![architecture](images\architecture.png)
+
 ## 安装 minikube
 
 执行如下命令来安装最新版本的 minikube：
